@@ -2,7 +2,7 @@
 
 基于vue的PC端图片预览组件
 
-[截图](http://pwxr9fta8.bkt.clouddn.com/20190827172640.png)
+![截图](http://pwxr9fta8.bkt.clouddn.com/20190827172640.png)
 
 ## 使用方式
 1. 安装
