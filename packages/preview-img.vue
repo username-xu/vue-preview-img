@@ -29,7 +29,7 @@
 </template>
 <script>
 export default {
-    name: 'img-preview',
+    name: 'preview-img',
     data(){
         return{
             src: '',
