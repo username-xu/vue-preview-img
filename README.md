@@ -13,6 +13,7 @@ npm i vue-preview-img --save
 2. 在main.js中注册
 ```javascript
 import previewImg from 'vue-preview-img'
+import '../node_modules/vue-preview-img/lib/vue-preview-img.css'
 Vue.use(previewImg)
 ```
 
